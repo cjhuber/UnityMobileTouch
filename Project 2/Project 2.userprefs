@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../IST446GroupGame/dungeon-crawl/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/MyThirdPersonCharacter.cs">
+    <Files>
+      <File FileName="../IST446GroupGame/dungeon-crawl/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="240" Column="60" />
+      <File FileName="../IST446GroupGame/dungeon-crawl/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" Line="70" Column="27" />
+      <File FileName="../IST446GroupGame/dungeon-crawl/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/MyThirdPersonCharacter.cs" Line="27" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
